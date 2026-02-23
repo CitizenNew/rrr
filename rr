@@ -1,4 +1,8 @@
 ##dfcs
 print("Hello")
 print("Test")
+<<<<<<< HEAD
 print('Test new_dev')
+=======
+# обновить develop
+>>>>>>> develop
